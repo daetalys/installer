@@ -16,3 +16,5 @@ linux-tools
 xorg
 xorg-drivers
 xorg-fonts
+terminator
+emacs
