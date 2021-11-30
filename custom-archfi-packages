@@ -10,6 +10,8 @@
 base
 base-devel
 archlinux-tools
+devtools
+etckeeper
 linux-tools
 xorg
 xorg-drivers
